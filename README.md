@@ -5,7 +5,7 @@ Thank you
 # 💜♥️💜♥️ DEPLOY ON HEROKU
 ## 🚀 Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=UmVuaXNoLVJwbGF5L2Ytc3UtY29tIG1haW4)
 
 # 💜♥️ ADD-ON
 ## TO MAKE POWERFUL BOT
